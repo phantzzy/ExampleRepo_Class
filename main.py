@@ -7,7 +7,7 @@ from calculator import saskaititFunkcija, atnemit, reizinaat, daliit
 
 def main():
     """Galvenā funkcija, kas demonstrē kalkulatora izmantošanu."""
-    print("=" * 40)
+    print("=" * 50)
     print("🧮 Vienkāršais Kalkulators")
     print("=" * 40)
     
