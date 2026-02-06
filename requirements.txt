@@ -1,0 +1,7 @@
+# Python atkarības
+# Šajā projektā nav ārējo atkarību,
+# bet šis fails parāda, kur tās norādīt.
+#
+# Piemērs:
+# requests==2.31.0
+# flask>=2.0.0

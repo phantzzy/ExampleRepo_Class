@@ -1,0 +1,28 @@
+# Python kompilētie faili
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtuālā vide
+venv/
+.venv/
+env/
+.env/
+
+# IDE iestatījumi
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS faili
+.DS_Store
+Thumbs.db
+
+# Žurnālf faili
+*.log
+
+# Lokālie iestatījumi
+.env
+.env.local
