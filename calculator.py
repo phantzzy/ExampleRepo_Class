@@ -8,7 +8,7 @@ Kalkulatora modulis ar vienkāršām matemātiskām funkcijām.
 """
 
 
-def saskaitit(a, b):
+def saskaititFunkcija(a, b):
     """
     Saskaita divus skaitļus.
     

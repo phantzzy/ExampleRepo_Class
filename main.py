@@ -2,7 +2,7 @@
 Galvenā programma - Python piemērs Git mācībām
 """
 
-from calculator import saskaitit, atnemit, reizinaat, daliit
+from calculator import saskaititFunkcija, atnemit, reizinaat, daliit
 
 
 def main():
@@ -18,7 +18,7 @@ def main():
     print(f"\nSkaitļi: a = {a}, b = {b}")
     print("-" * 40)
     
-    print(f"Saskaitīšana: {a} + {b} = {saskaitit(a, b)}")
+    print(f"Saskaitīšana: {a} + {b} = {saskaititFunkcija(a, b)}")
     print(f"Atņemšana:    {a} - {b} = {atnemit(a, b)}")
     print(f"Reizināšana:  {a} × {b} = {reizinaat(a, b)}")
     print(f"Dalīšana:     {a} ÷ {b} = {daliit(a, b)}")
